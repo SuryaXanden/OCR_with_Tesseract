@@ -1,0 +1,5 @@
+CHANGE THIS IF TESSERACT IS NOT IN YOUR PATH, OR IS NAMED DIFFERENTLY
+
+tesseract_cmd = r'C:\Program Files\Tesseract-OCR'
+
+tessdata_dir_config = r'--tessdata-dir "C:\Program Files\Tesseract-OCR\tessdata"'
